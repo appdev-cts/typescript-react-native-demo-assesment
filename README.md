@@ -11,6 +11,7 @@ React native assessment using typescript, redux persist.
 7. Please keep UI as close as possible.
 8. Make sure final codebase is super clean and organized.
 
+<img src="Simulator-Screen-Recording-iPhon.gif" width = "30%">
 
 # Used Components
 
