@@ -15,14 +15,25 @@ React native assessment using typescript, redux persist.
 # Used Components
 
 Use gorest.co.in for api calls
+
 Use RN CLI
+
 Wix navigation: https://github.com/wix/react-native-navigation
+
 Modal: https://wix.github.io/react-native-navigation/docs/modal/
+
 Redux store: https://redux.js.org/api/store
+
 Redux persist: https://github.com/rt2zz/redux-persist
+
 Use React Native Flatlist for The cells in the modal.
+
 Written in Typescript
 
+## Prerequisite
+```
+npm install -g npm
+```
 
 ## Run on android
 ```
